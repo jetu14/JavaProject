@@ -1,15 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 
 package com.mycompany.circlecalculator;
 
 import java.util.Scanner;
 
-/**
- *
- * @author MSi
- */
+
 public class CircleCalculator {
 
     public static void main(String[] args) {
