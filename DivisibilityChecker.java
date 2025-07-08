@@ -1,15 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 
 package com.mycompany.divisibilitychecker;
 
 import java.util.Scanner;
 
-/**
- *
- * @author MSi
- */
+
 public class DivisibilityChecker {
 
     public static void main(String[] args) {
