@@ -1,13 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 
 package com.mycompany.product;
 
-/**
- *
- * @author MSi
- */
+
 public class Product {
     public static void main(String[] args) {
         
