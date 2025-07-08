@@ -1,10 +1,7 @@
 
 package com.mycompany.averagespeedcalculator;
 
-/**
- *
- * @author MSi
- */
+
 public class AverageSpeedCalculator {
 
     public static void main(String[] args) {
