@@ -1,0 +1,23 @@
+package com.mycompany.weekday;
+
+import java.util.Scanner;
+
+public class Weekday {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        System.out.print("Please input any integer number : ");
+        int input = scanner.nextInt();
+        
+        String [] weekdays = {"Saturday" , "Sunday" , "Monday" , "Tuesday" , "Wednesday" ,"Thursday"};
+        
+        if (input >=1 && input <= weekdays.length){
+            System.out.print("Weeekdays : " +weekdays[input-1]);
+        }
+        else {
+            System.out.println("!!!!! Please input number between 1 to 7 !!!!!9");
+        }
+    }
+        
+}
